@@ -1,0 +1,6 @@
+{
+  "name": "Aether MNC",
+  "description": "Billion-dollar enterprise AI agent command center, multi-AI stack router, AI Slack war room, and fintech double-entry ERP ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
